@@ -1,6 +1,6 @@
 # Login-Form
 Login Form with Email and Password Validation
 
-I added a password non-view/view feature to the login form.
+Within the password field, I added an eye-icon that toggles the view access of the password.
 
 Project idea from CodingNepal
